@@ -1,7 +1,8 @@
 '''
 PrintDebug
-9/7/2022
-Python I
+Pawelski
+9/10/2023
+Introduction to Computer Science
 
 Instructions
 While writing this program, Mr. Pawelski made four mistakes. Find and fix all the mistakes.

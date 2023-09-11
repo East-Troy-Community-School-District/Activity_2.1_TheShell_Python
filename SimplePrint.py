@@ -1,7 +1,8 @@
 '''
 SimplePrint
-9/7/2022
-Python I
+Pawelski
+9/10/2023
+Introduction to Computer Science
 
 Instructions  
 1. Run the program and see the output.
