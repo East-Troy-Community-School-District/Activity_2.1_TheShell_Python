@@ -9,9 +9,9 @@ Instructions
 2. Be prepared to answer the questions below...
     a. As the program indicates, it contains escape sequences. Escape sequences are used to insert special characters
        or perform special functions within a string literal. What is the function of each escape sequence listed below?
-        * \\"
-        * \\'
-        * \\\
+        * \"
+        * \'
+        * \\
         * \n
         * \t
     b. Why might is be useful to know the escape sequences?
